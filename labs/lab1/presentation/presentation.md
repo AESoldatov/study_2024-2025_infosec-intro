@@ -130,7 +130,8 @@ monofontoptions: Scale=MatchLowercase,Scale=0.9
 ##
 
 Завершил установку (рис. [-@fig:015]).
- 
+
+![Завершение установки](./image/15.png){#fig:015 width=70%} 
 
 ## Выводы
 
